@@ -1,0 +1,69 @@
+[
+
+    {
+        "id": 1,
+        "title": "Book Publication ",
+        "image": "https://unsplash.com/photos/2zDw14yCYqk",
+        "description": "Concepts Books Publication offers publishing-related services in India that helps you to publish your book professionally. From designing book covers to publishing,
+         promotion to distribution & from writing to Printing, we offer a complete set of publishing services. "
+
+    },
+    {
+        "id": 2,
+        "title": "Thesis Writing ",
+        "image": "https://unsplash.com/photos/FHnnjk1Yj7Y",
+        "description": "We are writing M.Tech & PhD, Thesis on different Subjects at affordable rates.CBPI appoints subject experts & 
+        assist you in completing your thesis on time. We have completed 1105+ M.Tech & 255+ PhD theses till now.CBPI has gained trust is in this business for the last ten years "
+    },
+    
+    {
+        "id": 3,
+        "title": "3. Research Paper ",
+        "image": "https://unsplash.com/photos/sNwnjxm8eTY",
+        "description": "We are writing M.Tech & PhD, Thesis on different Subjects at affordable rates.CBPI appoints subject experts & assist you in completing your thesis on time. 
+        We have completed 1105+ M.Tech & 255+ PhD theses till now.CBPI has gained trust is in this business for the last ten years "
+    },
+
+    {
+        "id": 4,
+        "title": "Gem Support ",
+        "image": "https://unsplash.com/photos/Y5bvRlcCx8k",
+        "description": "GeM Registration & Support Services.We work for quality over quantity and provide full consultation
+         from document collection for GeM to routine GeM Support services at your doorstep."
+    },
+
+    {
+        "id": 5,
+        "title": " YouTube Monetization ",
+        "image": "https://unsplash.com/photos/8LfE0Lywyak",
+        "description": "Organic YouTube channel promotion with content related results. We will promote your channel in all aspects from social media promotion,
+         thumbnail improvement to get organic audiences,  backlinks, Likes, Watch hours & Subscribers etc."
+    },
+
+    {
+        "id": 6,
+        "title": "e-Commerce Support ",
+        "image": "https://unsplash.com/photos/XrIfY_4cK1w",
+        "description": "Sell your products on Amazon, Flipkart, Meesho & other platforms with our e-commerce listing, 
+        sales boost & online store launching services. Get these services at very affordable rates."
+    },
+
+    {
+        "id": 7,
+        "title": " Career Counselling ",
+        "image": "https://unsplash.com/photos/bwki71ap-y8",
+        "description": "Best personalized Career counselling. Get in touch with us to seek help from the most exemplary career counsellor and take your career to a new height.
+         You are discovering your perfect job or stream through a scientific approach to career guidance."
+    },
+
+    {
+        "id": 8,
+        "title": " Art for You ",
+        "image": "https://unsplash.com/photos/D5nh6mCW52c",
+        "description": "If you are an artist, we have good news for you. We register artists with us & amplify their sales & recognition online & 
+        offline both by marketing their product on our e-store & e-commerce platform."
+
+    }
+
+
+]
