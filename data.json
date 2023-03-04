@@ -1,13 +1,13 @@
 [
     { "id": 1,
         "title": " YouTube Monetization ",
-        "image": "./images/fq.png",
+        "image": "./fq.png",
          "description": "a"
     },
 
     { "id": 2,
         "title": " YouTube Monetization ",
-        "image": "https://unsplash.com/photos/8LfE0Lywyak",
+        "image": "./ff.jpg",
          "description": "b"
     },
 
