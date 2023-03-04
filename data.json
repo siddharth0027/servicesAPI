@@ -1,7 +1,7 @@
 [
     { "id": 1,
         "title": " YouTube Monetization ",
-        "image": "./fq.png",
+        "image": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=l",
          "description": "a"
     },
 
@@ -13,13 +13,13 @@
 
     { "id": 3,
         "title": " YouTube Monetization ",
-        "image": "https://unsplash.com/photos/8LfE0Lywyak",
+        "image": "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=l",
          "description": "c"
     },
 
     { "id": 4,
         "title": " YouTube Monetization ",
-        "image": "https://unsplash.com/photos/8LfE0Lywyak",
+        "image": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=l",
          "description": "d"
     },
 
